@@ -1,0 +1,5 @@
+mediapipe
+opencv-python
+numpy
+# Other necessary packages for hand tracking with visual effects
+# Add any additional packages here as needed
